@@ -1,105 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18fb273f-7b4b-4286-bc25-96ab507e92a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Idea_Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Override_/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Override_/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Override_/Override01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Override_/OverrideExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Override_/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Override_/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Super01/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Super01/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Super01/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/Super01/Super01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/debug_/Debug01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/debug_/Debug02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/debug_/Debug03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/encap/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/encap/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/encap/Encapsulation01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/ExtendTheory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/Extend_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/Graduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/TopBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/exercise/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/exercise/ExtendsExercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/exercise/NotePad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/exercise/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/improve/Extends01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/improve/ExtendsDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/improve/Graduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/improve/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/extend_/improve/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/HomeWork03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/HomeWork04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/Homework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework05/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework05/HomeWork05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework05/Peasant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework05/Scientist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework05/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework05/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework05/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework13/Homework13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework13/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework13/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/homework13/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/houserent/HouseRentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/houserent/domain/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/houserent/service/HouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/houserent/utils/TestUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/houserent/utils/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework_/houserent/view/HouseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/object_/Equals01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/object_/EqualsExercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/object_/EqualsExercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/object_/HashCode_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Bone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/Poly01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/PolyMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/detail_/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/detail_/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/detail_/PolyDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/detail_/PolyDetail02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/dynamic_/DynamicBinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/objpoly_/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/objpoly_/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/objpoly_/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/objpoly_/PolyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyarr_/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyarr_/PolyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyarr_/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyarr_/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyparameter_/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyparameter_/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyparameter_/PolyParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/poly_/polyparameter_/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/smallchange_/SmallChangeSys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/smallchange_/oop/SmallChangeSysApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/smallchange_/oop/SmallChangeSysOOP.java" afterDir="false" />
-    </list>
+    <list default="true" id="18fb273f-7b4b-4286-bc25-96ab507e92a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +143,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
